@@ -1,0 +1,2 @@
+This is my uncommitted work.
+I am learning git stash.
